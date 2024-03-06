@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Mergulhei no mundo da programação, onde o oceano é vasto e o meu objetivo é sucinto com a minha ambição na carreira.
 
 
