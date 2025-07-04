@@ -1,15 +1,13 @@
+👨‍💻 Sobre mim
+
 Sou desenvolvedor C# .NET com foco em desenvolvimento web fullstack, tendo iniciado minha carreira no início de 2023. Desde então, venho me dedicando intensamente ao aperfeiçoamento das minhas habilidades técnicas e à construção de soluções robustas e eficientes.
 
 🎓 Formado em Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI, onde tive meu segundo contato com programação,  com Java.
 
 🚀 Atualmente, tenho experiência prática em:
-
 Desenvolvimento de APIs RESTful com .NET
-
 Integração e manipulação de dados no frontend
-
 Modelagem e consultas em banco de dados SQL
-
 Criação de aplicações web com foco em performance e usabilidade
 
 
