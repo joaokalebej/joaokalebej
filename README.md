@@ -5,10 +5,10 @@ Sou desenvolvedor C# .NET com foco em desenvolvimento web fullstack, tendo inici
 🎓 Formado em Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI, onde tive meu segundo contato com programação,  com Java.
 
 🚀 Atualmente, tenho experiência prática em:
-Desenvolvimento de APIs RESTful com .NET
-Integração e manipulação de dados no frontend
-Modelagem e consultas em banco de dados SQL
-Criação de aplicações web com foco em performance e usabilidade
+- Desenvolvimento de APIs RESTful com .NET  
+- Integração e manipulação de dados no frontend  
+- Modelagem e consultas em banco de dados SQL  
+- Criação de aplicações web com foco em performance e usabilidade
 
 
 ## 🌐 Socials:
