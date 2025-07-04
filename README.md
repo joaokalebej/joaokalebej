@@ -1,4 +1,4 @@
-👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
 Sou desenvolvedor C# .NET com foco em desenvolvimento web fullstack, tendo iniciado minha carreira no início de 2023. Desde então, venho me dedicando intensamente ao aperfeiçoamento das minhas habilidades técnicas e à construção de soluções robustas e eficientes.
 
